@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Automated Test
+- Devs experiences : 5
+- App Devs, Windows Devs ...
+
+### Skill
+- Python ,C#
+- Selenium, Appium, Katalon, Checkmate RPA 
 
 <!--
 **yjbae-ww/yjbae-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
