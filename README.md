@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Automated Test
 - Devs experiences : 5
-- App Devs, Windows Devs ...
+- Field : App, Windows ...
 
 ### Skill
 - Python ,C#
