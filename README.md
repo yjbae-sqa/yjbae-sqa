@@ -6,7 +6,7 @@
 
 ### Skill
 - Python ,C# ,Groovy
-- Selenium, Appium, Katalon, Checkmate RPA 
+- Selenium, Appium, Katalon Studio, Checkmate RPA 
 
 <!--
 **yjbae-ww/yjbae-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
