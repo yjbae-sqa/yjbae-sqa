@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Automation Develepment
-- Devs experiences : 5
+- Develepment experiences : 5
 - Field : App, Windows ...
 
 ### Skill
