@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Automation Develepment
-- Develepment experiences : 5yrs
 - Platform : App, Windows ...
 - Field : Entertainment, Virtual training, B2B industry, Metaverse ...
 
