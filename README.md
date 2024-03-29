@@ -4,7 +4,7 @@
 - Field : Entertainment, Virtual training, B2B industry, Metaverse ...
 
 ### Skill
-- Python ,C# ,Groovy
+- Python, C#, Groovy
 - Selenium, Appium, Katalon Studio, Checkmate RPA 
 
 <!--
