@@ -4,8 +4,8 @@
 - Field : Entertainment, Virtual training, B2B industry, Metaverse ...
 
 ### Skill
-- Python, C#, Groovy
-- Selenium, Appium, Katalon Studio, Checkmate RPA 
+[![My Skills](https://skillicons.dev/icons?i=py,cs,selenium)](https://skillicons.dev)
+- Groovy, Appium, Katalon Studio, Checkmate RPA 
 
 <!--
 **yjbae-ww/yjbae-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
