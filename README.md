@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Automation Develepment
+- 🔭 I’m currently working on Automation Develepment Enginner
 - Platform : App, Windows ...
 - Field : Entertainment, Virtual training, B2B industry, Metaverse ...
 
