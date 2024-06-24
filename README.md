@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Automation Develepment Enginner
 - Platform : App, Windows ...
+- Current Field : E-Commerce
 - Field : Entertainment, Virtual training, B2B industry, Metaverse ...
 
 ### Skill
