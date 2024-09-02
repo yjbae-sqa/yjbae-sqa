@@ -1,14 +1,19 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Automation Develepment Enginner
-- Platform : App, Windows ...
-- Current Field : E-Commerce
-- Field : Entertainment, Virtual training, B2B industry, Metaverse ...
+- Platform : AOS, IOS, Windows ...
+- Field : E-Commerce, Entertainment, Virtual training, B2B industry, Metaverse ...
 - CI/CD : Git,Github...
 
 ### Skill
 [![My Skills](https://skillicons.dev/icons?i=py,cs,selenium)](https://skillicons.dev)
-- Groovy, Appium, Katalon Studio, Checkmate RPA 
-
+<p>
+    <img src="https://img.shields.io/badge/-Groovy-5e97b6?style=flat-square&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Appium-e73169?style=flat-square&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Katalon Studio-24C185?style=flat-square&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-checkmate RPA-ff9400?style=flat-square&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+</p>
 <!--
 **yjbae-ww/yjbae-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
