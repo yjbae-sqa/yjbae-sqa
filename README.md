@@ -23,6 +23,4 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ## Carrer
-[Automation Test](https://github.com/yjbae-sqa/yjbae-sqa/issues/4)
-
 [Work Carrer](https://github.com/yjbae-sqa/yjbae-sqa/issues/3)
