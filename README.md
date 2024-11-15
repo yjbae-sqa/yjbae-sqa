@@ -5,6 +5,7 @@
 - CI/CD : Github Action, Jenkins ...
 - Culture : Code Review, Documentation, Communication
 - Advantage : Develep, Involvement
+- Test : unit test, test case, test scenario, api test, smoke test, regression test ...
 
 ### 📚 Language Stack
 [![My Skills](https://skillicons.dev/icons?i=py,cs,java,selenium)](https://skillicons.dev)
