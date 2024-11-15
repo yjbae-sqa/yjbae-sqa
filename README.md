@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Automation Develepment Enginner
+- 🔭 I’m currently working on Automation Test Enginner
 - Platform : AOS, IOS, Windows ...
 - Field : E-Commerce, Entertainment, Virtual training, B2B industry, Metaverse ...
-- CI/CD : Git,Github...
+- CI/CD : Git,Github..
+- Culture : Code Review, Documentation, Communication
+- Advantage : Develep, Involvement
 
 ### 📚 Language Stack
 [![My Skills](https://skillicons.dev/icons?i=py,cs,selenium)](https://skillicons.dev)
