@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Automation Test Enginner
 - ☕️ A coffee chat is always welcome!
-- Platform : Android, IOS, Window ...
+- Platform : Android, IOS, Window, Web ...
 - Field : E-Commerce, Entertainment, Virtual training, AR, VR, MR, B2B & B2C industry, Metaverse, AI ...
 - CI/CD : Github Action, Jenkins ...
 - Culture : Code Review, Documentation, Communication
@@ -13,6 +13,7 @@
 
 [![Groovy](https://img.shields.io/badge/-Groovy-5e97b6?style=for-the-badge&logoColor=white)](https://groovy-lang.org/)
 [![Appium](https://img.shields.io/badge/-Appium-e73169?style=for-the-badge&logoColor=black)](https://appium.io/docs/en/latest/)
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ-4242f5?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/ko-kr/idea/)
 
 ## 🛠️ Available Tools
 [![KatalonStudio](https://img.shields.io/badge/-KatalonStudio-24C185?style=for-the-badge&logoColor=black)](https://katalon.com/)
