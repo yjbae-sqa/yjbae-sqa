@@ -12,4 +12,4 @@
 [![Appium](https://img.shields.io/badge/-Appium-e73169?style=for-the-badge&logoColor=black)](https://appium.io/docs/en/latest/)
 [![KatalonStudio](https://img.shields.io/badge/-KatalonStudio-24C185?style=for-the-badge&logoColor=black)](https://katalon.com/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/intl/ko-kr)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ko/software/jira)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ko/software/jira/guides/getting-started/introduction)
