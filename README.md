@@ -4,27 +4,12 @@
 - Field : E-Commerce, Entertainment, Virtual training, B2B industry, Metaverse ...
 - CI/CD : Git,Github...
 
-### Skill
+### 📚 Language Stack
 [![My Skills](https://skillicons.dev/icons?i=py,cs,selenium)](https://skillicons.dev)
-<p>
-    <img src="https://img.shields.io/badge/-Groovy-5e97b6?style=flat-square&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Appium-e73169?style=flat-square&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Katalon Studio-24C185?style=flat-square&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-RPA-ff9400?style=flat-square&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-</p>
-<!--
-**yjbae-ww/yjbae-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Available Tools
+[![Groovy](https://img.shields.io/badge/-Groovy-5e97b6?style=for-the-badge&logoColor=white)](https://groovy-lang.org/)
+[![Appium](https://img.shields.io/badge/-Appium-e73169?style=for-the-badge&logoColor=black)](https://appium.io/docs/en/latest/)
+[![KatalonStudio](https://img.shields.io/badge/-KatalonStudio-24C185?style=for-the-badge&logoColor=black)](https://katalon.com/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/intl/ko-kr)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ko/software/jira)
