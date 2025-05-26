@@ -1,12 +1,15 @@
-## Hi there 👋
-- 🔭 I’m currently working on Automation Test Enginner
+## 👋 Hi there!
+
+- 🔭 I’m currently working as an **SQA Engineer** with hands-on experience in **automation testing**.  
 - ☕️ A coffee chat is always welcome!
-- Platform : Android, IOS, Window, Web ...
-- Field : E-Commerce, Entertainment, Virtual training, AR, VR, MR, B2B & B2C industry, Metaverse, AI ...
-- CI/CD : Github Action, Jenkins ...
-- Culture : Code Review, Documentation, Communication
-- Advantage : Develep, Involvement
-- Test : unit test, test case, test scenario, api test, smoke test, regression test ...
+
+### 🔧 Skills & Areas of Focus
+- ✅ **Testing**: Unit tests, test cases, test scenarios, API testing, smoke & regression testing  
+- 💻 **Platforms**: Android, iOS, Windows, Web  
+- 🌐 **Domains**: E-Commerce, Entertainment, Virtual Training, AR/VR/MR, Metaverse, B2B & B2C, AI  
+- ⚙️ **CI/CD**: GitHub Actions, Jenkins  
+- 🧠 **Culture**: Code Review, Documentation, Communication  
+- 🤝 **Strengths**: Developer collaboration, proactive involvement in quality improvement  
 
 ## 📚 Language Stack
 [![My Skills](https://skillicons.dev/icons?i=py,cs,java,selenium)](https://skillicons.dev)
