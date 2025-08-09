@@ -11,11 +11,11 @@
 - 🧠 **Culture**: Code Review, Documentation, Communication  
 - 🤝 **Strengths**: Developer collaboration, proactive involvement in quality improvement  
 
-## 📚 Language Stack
-[![My Skills](https://skillicons.dev/icons?i=py,cs,java,selenium)](https://skillicons.dev)
-
-[![Groovy](https://img.shields.io/badge/-Groovy-5e97b6?style=for-the-badge&logoColor=white)](https://groovy-lang.org/)
-[![Appium](https://img.shields.io/badge/-Appium-e73169?style=for-the-badge&logoColor=black)](https://appium.io/docs/en/latest/)
+## 📚 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,java,py,selenium)](https://skillicons.dev)
+[![Appium](https://skills-icons.vercel.app/api/icons?i=appium)](https://appium.io/docs/en/latest/)
+[![Groovy](https://skills.syvixor.com/api/icons?i=groovy)](https://groovy-lang.org/)
+[![Docker](https://skills.syvixor.com/api/icons?i=docker)](https://www.docker.com/)
 
 ## 🛠️ Tools
 [![KatalonStudio](https://img.shields.io/badge/-KatalonStudio-24C185?style=for-the-badge&logoColor=black)](https://katalon.com/)
