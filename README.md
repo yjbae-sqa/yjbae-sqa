@@ -6,7 +6,7 @@
 ### 🔧 Skills & Areas of Focus
 - ✅ **Testing**: Unit tests, test cases, test scenarios, API testing, smoke & regression testing  
 - 💻 **Platforms**: Android, iOS, Windows, Web  
-- 🌐 **Domains**: E-Commerce, Entertainment, Virtual Training, AR/VR/MR, Metaverse, B2B & B2C, AI  
+- 🌐 **Domains**: E-Commerce, Entertainment, XR (AR/VR/MR), Metaverse, B2B & B2C, AI  
 - ⚙️ **CI/CD**: GitHub Actions, Jenkins  
 - 🧠 **Culture**: Code Review, Documentation, Communication  
 - 🤝 **Strengths**: Developer collaboration, proactive involvement in quality improvement  
