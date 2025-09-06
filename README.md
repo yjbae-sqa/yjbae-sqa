@@ -38,8 +38,6 @@ A coffee chat is always welcome!
 - Code: Coverage
 
 ## 🌐 Domains
-- AI (MLOps), E-Commerce, B2B & B2C
-
 [![AI](https://img.shields.io/badge/AI-3cc2c2?style=for-the-badge&logoColor=white)](https://namu.wiki/w/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 [![MLOps](https://img.shields.io/badge/MLOps-d4a759?style=for-the-badge&logoColor=white)](https://www.databricks.com/kr/glossary/mlops)
 [![E-Commerce](https://img.shields.io/badge/E_Commerce-6b9fd6?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/E-commerce)
