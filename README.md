@@ -40,6 +40,12 @@ A coffee chat is always welcome!
 ## 🌐 Domains
 - AI (MLOps), E-Commerce, B2B & B2C
 
+[![AI](https://img.shields.io/badge/AI-3cc2c2?style=for-the-badge&logoColor=white)](https://namu.wiki/w/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
+[![MLOps](https://img.shields.io/badge/MLOps-d4a759?style=for-the-badge&logoColor=white)](https://www.databricks.com/kr/glossary/mlops)
+[![E-Commerce](https://img.shields.io/badge/E_Commerce-6b9fd6?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/E-commerce)
+[![B2B](https://img.shields.io/badge/B2B-111e82?style=for-the-badge&logoColor=white)](https://namu.wiki/w/B2B)
+[![B2C](https://img.shields.io/badge/B2C-5a2ba6?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/B2C)
+
 ## ⚙️ CI/CD
 [![Argo cd](https://skills.syvixor.com/api/icons?i=argocd)](https://argo-cd.readthedocs.io/en/stable/)
 [![Jenkins](https://skills.syvixor.com/api/icons?i=jenkins)](https://www.jenkins.io/)
