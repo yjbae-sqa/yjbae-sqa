@@ -33,7 +33,7 @@ A coffee chat is always welcome!
 [![Web](https://go-skill-icons.vercel.app/api/icons?i=chrome)](https://namu.wiki/w/Chrome)
 
 ## ✅ Testing
-- Functional: Test Case, Test Scenarios, Smoke Test, Regression Test  
+- Functional: Test Case, Test Scenarios, Smoke Test, Sanity Test, Regression Test  
 - API: API Test, API Reference Review  
 - Code: Coverage
 
