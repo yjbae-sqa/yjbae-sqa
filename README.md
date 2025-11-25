@@ -53,5 +53,5 @@
 [![SonarQube](https://go-skill-icons.vercel.app/api/icons?i=sonarqube)](https://www.sonarsource.com/products/sonarqube/)
 
 <h2>
-  <a href="https://github.com/yjbae-sqa/yjbae-sqa/issues/3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">📂 Career ↗</a>
+  <a href="https://github.com/yjbae-sqa/yjbae-sqa/issues/3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">📂 Career Summary ↗</a>
 </h2>
