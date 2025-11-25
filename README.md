@@ -34,7 +34,8 @@
 
 ## ✅ Testing
 - Functional: Test Case, Test Scenarios, Smoke Test, Sanity Test, Regression Test  
-- API: API Test, API Reference Review  
+- API: API Test, API Reference Review
+- Automation: TestNG
 - Code: Coverage
 
 ## 🌐 Domains
@@ -45,8 +46,9 @@
 [![B2C](https://img.shields.io/badge/B2C-5a2ba6?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/B2C)
 
 ## ⚙️ CI/CD
-[![Argo cd](https://skills.syvixor.com/api/icons?i=argocd)](https://argo-cd.readthedocs.io/en/stable/)
 [![Jenkins](https://skills.syvixor.com/api/icons?i=jenkins)](https://www.jenkins.io/)
+[![Argo cd](https://skills.syvixor.com/api/icons?i=argocd)](https://argo-cd.readthedocs.io/en/stable/)
+[![Github Actions](https://skills.syvixor.com/api/icons?i=githubactions)](https://github.com/features/actions?locale=ko-KR)
 
 ## 📊 Quality & Code Analysis
 [![SonarQube](https://go-skill-icons.vercel.app/api/icons?i=sonarqube)](https://www.sonarsource.com/products/sonarqube/)
