@@ -33,10 +33,9 @@
 [![Web](https://go-skill-icons.vercel.app/api/icons?i=chrome)](https://namu.wiki/w/Chrome)
 
 ## ✅ Testing
-- Functional: Test Case, Test Scenarios, Smoke Test, Sanity Test, Regression Test  
+- Functional: Test Case, Test Scenarios, Test Sutie, Smoke Test, Sanity Test, Regression Test
 - API: API Test, API Reference Review
-- Automation: TestNG
-- Code: Coverage
+- Automation: TestNG, Allure, Coverage
 
 ## 🌐 Domains
 [![AI](https://img.shields.io/badge/AI-3cc2c2?style=for-the-badge&logoColor=white)](https://namu.wiki/w/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
