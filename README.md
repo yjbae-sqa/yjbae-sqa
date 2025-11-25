@@ -1,8 +1,8 @@
-## 👋 Hi there!
+## 👋 안녕하세요!
 
-I’m currently working as an **SQA Engineer** with hands-on experience in **automation testing**.  
-I’m passionate about embracing a **QAOps culture** to make software quality even better.  
-A coffee chat is always welcome!
+최근까지 SQA 엔지니어로 근무하며 Web/App/API 기반 테스트와 자동화 경험을 쌓아왔습니다.  
+품질 효율을 높이는 QAOps 문화와 자동화 중심의 품질 개선에 관심이 많습니다.  
+관심 있으시다면 언제든 커피 챗으로 이야기 나눌 수 있습니다. ☕🙂
 
 ## 🖥️ Languages
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
@@ -54,6 +54,3 @@ A coffee chat is always welcome!
 <h2>
   <a href="https://github.com/yjbae-sqa/yjbae-sqa/issues/3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">📂 Career ↗</a>
 </h2>
-<p style="margin-top: -10px; color: gray;">👉 Ongoing tasks and career details (GitHub Issues)</p>
-
-👉 [5 years of professional experience in development](https://github.com/Pensive-dev)
