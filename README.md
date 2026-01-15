@@ -18,7 +18,7 @@
 [![Appium](https://skills-icons.vercel.app/api/icons?i=appium)](https://appium.io/docs/en/latest/)
 
 ## 🛠️ Tools & IDEs
-[![KatalonStudio](https://img.shields.io/badge/-Katalon_Studio-24C185?style=for-the-badge&logoColor=black)](https://katalon.com/)
+[![KatalonStudio](https://skills.syvixor.com/api/icons?perline=15&i=katalon)](https://katalon.com/)
 [![IntelliJ](https://skills.syvixor.com/api/icons?i=intellijidea)](https://www.jetbrains.com/ko-kr/idea/)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Jira](https://skills.syvixor.com/api/icons?i=jira)](https://www.atlassian.com/software/jira)
@@ -43,6 +43,7 @@
 [![E-Commerce](https://img.shields.io/badge/E_Commerce-6b9fd6?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/E-commerce)
 [![B2B](https://img.shields.io/badge/B2B-111e82?style=for-the-badge&logoColor=white)](https://namu.wiki/w/B2B)
 [![B2C](https://img.shields.io/badge/B2C-5a2ba6?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/B2C)
+[![SaaS](https://img.shields.io/badge/SaaS-57ad71?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/SaaS)
 
 ## ⚙️ CI/CD
 [![Jenkins](https://skills.syvixor.com/api/icons?i=jenkins)](https://www.jenkins.io/)
