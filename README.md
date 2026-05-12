@@ -53,6 +53,7 @@ Web / Mobile / API 환경에서 테스트 자동화와 품질 프로세스 개�
 
 ## 🤖 AI Tools
 [![Cursor](https://skills.syvixor.com/api/icons?perline=15&i=cursor)](https://cursor.com/)
+[![Gemini](https://skills.syvixor.com/api/icons?perline=15&i=geminicli)](https://geminicli.com/)
 [![Codex](https://skills.syvixor.com/api/icons?perline=15&i=codex)](https://openai.com/ko-KR/codex/)
 [![Claude](https://skills.syvixor.com/api/icons?perline=15&i=claudeai)](https://code.claude.com/docs/ko/overview)
 
