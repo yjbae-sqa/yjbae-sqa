@@ -1,6 +1,6 @@
 # Software Engineer | Automation · AI/LLM · CI/CD · Service Operations
 
-> 자동화와 엔지니어링 프로세스를 통해 서비스 안정성과 개발 생산성을 높입니다.
+> 자동화와 엔지니어링 프로세스를 통해 서비스 안정성과 개발 생산성을 높이는 엔지니어
 
 ## 👋 안녕하세요!
 
