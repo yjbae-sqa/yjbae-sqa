@@ -6,15 +6,13 @@
 
 7년간 소프트웨어 개발과 자동화, Quality Engineering 경험을 바탕으로 서비스 안정성과 개발 생산성을 높여온 Software Engineer입니다.
 
-Unity 기반 클라이언트·프론트엔드 개발로 커리어를 시작해 서비스·솔루션 개발, 운영·유지보수·고도화를 수행했으며, 이후 테스트 자동화, API 검증, CI/CD, Docker 기반 환경, Release Quality Gate 영역으로 경험을 확장해왔습니다.
+Unity 기반 클라이언트(Front-end) 개발로 커리어를 시작해 서비스·솔루션 개발, 운영·유지보수·고도화를 수행했으며, 이후 테스트 자동화, API 검증, CI/CD, Docker 기반 환경, Release Quality Gate 영역으로 경험을 확장해왔습니다.
 
-서비스 구조와 API 흐름을 분석하고, 사용자 영향도와 기술 리스크를 기준으로 우선순위를 정해 기능 구현과 자동화 범위를 정의합니다.
+서비스 구조와 API 흐름을 분석하고, 비즈니스 중요도와 기술 리스크를 기준으로 우선순위를 정의해 기능을 구현하고 자동화를 설계합니다. 또한 문제를 단순히 수정하는 데 그치지 않고, 코드, 자동화, CI/CD, 운영 프로세스를 통해 재발을 예방하는 구조를 만드는 데 강점이 있습니다.
 
-문제가 발생한 뒤 단순히 수정하는 데 그치지 않고, 같은 문제가 반복되지 않도록 코드, 자동화, CI/CD와 운영 프로세스로 구조화하는 데 강점이 있습니다.
+Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI/CD, Service Operations 영역을 함께 확장하며, 개발과 품질을 연결하는 엔지니어를 지향합니다.
 
-Quality Engineering은 제가 경험해온 전문 도메인 중 하나이며, 현재는 Software Engineering을 중심으로 Automation, AI/LLM, CI/CD, Service Operations 영역을 함께 확장하고 있습니다.
-
-조직에서 서비스·솔루션 개발, 자동화 체계, CI/CD 파이프라인, 운영 안정화가 필요하다면 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다. ☕
+조직에서 서비스·솔루션 개발, 자동화 프로세스, CI/CD 파이프라인, 프로젝트 운영 프로세스 구축이 필요하다면 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다. ☕
 
 ---
 
@@ -104,7 +102,7 @@ LLM을 활용해 반복 업무와 평가·검증 작업을 동일한 입력 및 
 
 * 입력 데이터, 프롬프트, 기대 결과, 판정 기준으로 평가 항목 구성
 * LLM 호출, 결과 수집, 점수 산출을 연결한 평가 실행 Workflow 설계
-* 판정이 불명확한 결과를 사람이 검토하도록 Human-in-the-loop 조건 정의
+* 판정이 불명확한 결과를 사람이 검토하도록 Human Review 조건 정의
 
 ### 📊 Quality Engineering
 
