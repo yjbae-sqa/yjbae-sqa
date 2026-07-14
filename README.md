@@ -168,7 +168,6 @@ LLM을 활용해 반복 업무와 평가·검증 작업을 동일한 입력 및 
 ![Database](https://img.shields.io/badge/Database-16A34A?style=for-the-badge&logoColor=white)
 [![SQL](https://skills.syvixor.com/api/icons?i=sql)](https://namu.wiki/w/SQL)
 [![Android](https://skills.syvixor.com/api/icons?i=android)](https://www.android.com/)
-[![iOS](https://skills.syvixor.com/api/icons?i=ios)](https://namu.wiki/w/iOS)
 [![Web](https://go-skill-icons.vercel.app/api/icons?i=chrome)](https://namu.wiki/w/Chrome)
 [![AWS](https://skills.syvixor.com/api/icons?i=amazonwebservices)](https://aws.amazon.com/ko/)
 
@@ -180,6 +179,7 @@ LLM을 활용해 반복 업무와 평가·검증 작업을 동일한 입력 및 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/)
 [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/)
+[![Figma](https://skills.syvixor.com/api/icons?i=figma)](https://www.figma.com/ko-kr/?context=localeChange)
 
 ### Code Quality
 
