@@ -29,10 +29,10 @@ Unity 기반 클라이언트·프론트엔드 개발과 서비스·솔루션 개
 ## 🚀 주요 경험
 
 * 소프트웨어 서비스·솔루션 개발 및 운영·유지보수·고도화
-* Selenium, Appium, Playwright 기반 테스트 자동화 설계·개발·운영
-* AI·LLM 활용 기반 업무·평가 자동화 및 기능 구현
-* API·서비스 흐름과 운영 리스크를 분석해 CI/CD·Docker 기반 실행 환경 개선
-* 서비스 리스크 기반 우선순위와 Release Quality Gate 기준 정의 및 운영
+* 릴리즈 영향도를 기준으로 Selenium·Appium 기반 테스트 자동화 범위를 정의하고 개발·운영
+* AI·LLM을 활용한 반복 업무 및 평가·검증 자동화 기능 구현
+* API·서비스 흐름 분석과 Docker 기반 개발·테스트 실행 환경 구성
+* Coverage 기반 Release Quality Gate 기준 정의 및 운영
 
 ---
 
@@ -66,7 +66,7 @@ Unity 기반 클라이언트·프론트엔드 개발과 서비스·솔루션 개
 
 * 요구사항과 변경 영향도를 기준으로 Test Plan, 테스트 우선순위, Regression 범위 정의
 * 테스트 Coverage와 실행 결과를 수치화해 Release Quality Gate와 배포 승인 기준 운영
-* API·Integration·E2E·Regression 검증 결과를 대시보드로 제공해 배포 전 품질 상태와 잔여 리스크 공유
+* SonarQube Coverage 데이터를 API로 수집해 품질 대시보드로 시각화하고 배포 전 Coverage 상태 공유
 
 ---
 
@@ -84,35 +84,35 @@ Unity 기반 클라이언트·프론트엔드 개발과 서비스·솔루션 개
 
 ### 🤖 Automation Strategy & Framework
 
-전체 테스트 시나리오에서 릴리즈 영향도, 반복 실행 빈도, 장애 발생 가능성을 기준으로 자동화 대상을 선정하고 Web·Mobile·API 자동화 구조를 설계·운영합니다.
+전체 테스트 시나리오에서 릴리즈 영향도와 반복 검증 빈도를 기준으로 자동화 대상을 선정하고 Web·Mobile·API 자동화를 개발·운영합니다.
 
-* Selenium·Appium·Playwright 기반 Web·Mobile 자동화와 Postman·Newman 기반 API 검증 구성
-* 공통 Driver, Page Object, 테스트 데이터, 실행 환경을 분리한 재사용 가능한 프레임워크 설계
-* 테스트 결과, 실패 단계, 오류 로그를 확인할 수 있는 실행 리포트와 원인 추적 기준 정의
+* Selenium·Appium 기반 Web·Mobile 자동화와 Postman·Newman 기반 API 검증 구현
+* 공통 모듈, 테스트 데이터, 실행 조건을 분리한 자동화 실행 구조 구성
+* 테스트 결과, 실패 단계, 오류 로그를 확인할 수 있는 리포트와 실패 원인 추적 기준 정의
 
 ### 🚀 CI/CD & Release Strategy
 
-코드 변경부터 자동화 테스트, 결과 확인, 배포 판단까지 연결되는 CI/CD 실행 흐름을 구성합니다.
+자동화 테스트 결과를 배포 전 검증에 활용할 수 있도록 CI 실행 흐름과 Release 기준을 구성합니다.
 
-* Jenkins·GitHub Actions에서 빌드, 자동화 테스트, 결과 리포트가 순차 실행되는 파이프라인 구성
-* Docker 기반으로 개발자와 CI 환경의 테스트 실행 조건을 동일하게 표준화
-* 자동화 테스트 결과와 Coverage 기준을 Release Validation에 연결하고 실패 시 배포 중단 조건 정의
+* Jenkins에서 Build·Test·Report가 연결되는 자동화 파이프라인 구축 실습
+* Docker 기반으로 로컬과 테스트 환경의 실행 조건 구성
+* 테스트 결과와 Coverage를 Release Quality Gate에 연결해 배포 가능 여부 판단
 
 ### 🧠 AI / LLM Automation
 
-LLM을 활용해 반복 업무와 평가 프로세스를 자동화하고, 결과를 동일한 기준으로 비교할 수 있는 실행 구조를 설계합니다.
+LLM을 활용해 반복 업무와 평가·검증 작업을 동일한 입력 및 판정 기준으로 실행할 수 있도록 자동화합니다.
 
-* 평가 대상 입력 데이터, 프롬프트, 기대 결과, 판정 기준으로 구성된 평가 데이터셋 정의
-* Harness에서 LLM 호출, 결과 수집, 점수 산출, 실패 케이스 저장이 연결되는 평가 자동화 흐름 구성
-* 정확도 기준을 충족하지 못하거나 판정이 불명확한 결과는 사람이 검토하도록 Human-in-the-loop 조건 정의
+* 입력 데이터, 프롬프트, 기대 결과, 판정 기준으로 평가 항목 구성
+* LLM 호출, 결과 수집, 점수 산출을 연결한 평가 실행 Workflow 설계
+* 판정이 불명확한 결과를 사람이 검토하도록 Human-in-the-loop 조건 정의
 
 ### 📊 Quality Engineering
 
-테스트 결과와 Coverage를 배포 의사결정에 사용할 수 있도록 품질 기준과 검증 프로세스를 설계·운영합니다.
+테스트 결과와 Coverage를 배포 의사결정에 활용할 수 있도록 검증 기준과 품질 지표를 설계·운영합니다.
 
-* 요구사항과 변경 영향도를 기준으로 Test Plan, 테스트 우선순위, Regression 범위 정의
-* 테스트 통과율, Coverage, 미해결 결함을 기준으로 Release Quality Gate와 배포 승인 조건 운영
-* API·Integration·E2E 테스트 결과를 대시보드로 제공해 배포 가능 여부와 잔여 리스크 공유
+* 요구사항과 변경 영향도를 기준으로 테스트 우선순위와 Regression 범위 정의
+* 테스트 통과율과 Coverage를 기반으로 Release Quality Gate 운영
+* 품질 지표 대시보드로 배포 전 상태와 잔여 리스크 공유
 
 ---
 
