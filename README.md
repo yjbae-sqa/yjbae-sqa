@@ -31,8 +31,8 @@ Unity 기반 클라이언트·프론트엔드 개발과 서비스·솔루션 개
 * 소프트웨어 서비스·솔루션 개발 및 운영·유지보수·고도화
 * Selenium, Appium, Playwright 기반 테스트 자동화 설계·개발·운영
 * AI·LLM 활용 기반 업무·평가 자동화 및 기능 구현
-* API·서비스 흐름 분석과 CI/CD·Docker 기반 운영 안정화
-* 서비스 리스크 기반 우선순위 정의 및 Release Quality Gate 구축
+* API·서비스 흐름과 운영 리스크를 분석해 CI/CD·Docker 기반 실행 환경 개선
+* 서비스 리스크 기반 우선순위와 Release Quality Gate 기준 정의 및 운영
 
 ---
 
@@ -40,42 +40,33 @@ Unity 기반 클라이언트·프론트엔드 개발과 서비스·솔루션 개
 
 ### 🖥 서비스·솔루션 개발
 
-* Unity 기반 클라이언트·프론트엔드 기능 개발
-* 서비스 운영·유지보수 및 기능 고도화
-* 사용자 인터페이스와 비즈니스 로직 구현
-* REST API 연동 및 서비스 흐름 구현
-* 운영 이슈 분석 및 기능 개선
-* 기존 시스템 구조 분석과 기술적 문제 해결
+* 요구사항과 기존 코드 구조를 분석해 기능 범위, 구현 순서, 수정 영향도 정의
+* Unity·C# 기반 클라이언트 및 프론트엔드 기능 개발, 운영 이슈 수정과 기능 고도화
+* REST API 요청·응답과 비즈니스 로직을 연계한 서비스 기능 구현 및 데이터 정합성 검증
 
 ### ⚡ Automation Engineering
 
-* Selenium, Appium, Playwright 기반 Web·Mobile 자동화
-* 반복 검증 업무를 줄이기 위한 자동화 범위 정의
-* 서비스 리스크와 변경 영향도를 기준으로 핵심 시나리오 선정
-* TestNG 기반 테스트 실행 구조 및 결과 리포트 구성
-* Postman, Newman 기반 API 자동화
-* 재사용성과 유지보수성을 고려한 자동화 구조 설계
-* AI·LLM 활용 기반 테스트·평가·업무 자동화
+* 전체 테스트 시나리오에서 릴리즈 영향도, 반복 빈도, 장애 위험을 기준으로 자동화 대상 선정
+* Selenium·Appium·Playwright 기반 Web·Mobile 자동화와 Postman·Newman 기반 API 검증 구조 설계
+* 테스트 데이터, 실행 조건, 결과 리포트, 실패 원인 추적을 포함한 재사용 가능한 자동화 프레임워크 구축
+
+### 🧠 AI·LLM Automation
+
+* 반복 업무와 평가 프로세스를 분석해 LLM 적용 대상, 자동화 범위, Human-in-the-loop 조건 정의
+* 프롬프트, 평가 데이터셋, 실행 Harness, 결과 판정 기준을 연결한 평가 자동화 구조 설계
+* LLM 기반 분류·요약·검증 기능과 업무 워크플로우 자동화 구현
 
 ### 🚀 CI/CD & Service Operations
 
-* Jenkins, GitHub Actions 기반 자동화 실행 파이프라인 구성
-* ArgoCD 기반 배포 환경 경험
-* Docker 기반 개발·테스트·배포 환경 구성
-* 자동화 테스트와 CI/CD 파이프라인 연동
-* 배포 전 검증 프로세스와 Release Flow 개선
-* 운영 이슈 대응을 위한 로그·API 흐름 분석
-* 서비스 운영 안정화를 위한 유지보수·고도화
+* Jenkins·GitHub Actions에서 빌드, 자동화 테스트, 결과 리포트가 연계되는 실행 파이프라인 구성
+* Docker 기반 개발·테스트 환경을 표준화하고 ArgoCD 배포 환경과 Release Validation 절차 연동
+* 애플리케이션 로그, Android Logcat, API 요청·응답을 분석해 장애 원인을 추적하고 운영 이슈 수정
 
 ### 🛡 Quality Engineering
 
-* 서비스 리스크 기반 테스트 우선순위와 검증 범위 정의
-* Release Quality Gate 기준 정의 및 운영
-* Coverage 기반 품질 지표와 대시보드 구축
-* API, Integration, End-to-End 검증 구조 설계
-* Regression, Smoke, Sanity 테스트 전략 수립
-* 초기·성장 단계 조직의 QA 프로세스 및 검증 체계 정립
-* 개발 조직과 협업해 품질 기준과 배포 검증 흐름 개선
+* 요구사항과 변경 영향도를 기준으로 Test Plan, 테스트 우선순위, Regression 범위 정의
+* 테스트 Coverage와 실행 결과를 수치화해 Release Quality Gate와 배포 승인 기준 운영
+* API·Integration·E2E·Regression 검증 결과를 대시보드로 제공해 배포 전 품질 상태와 잔여 리스크 공유
 
 ---
 
@@ -91,45 +82,37 @@ Unity 기반 클라이언트·프론트엔드 개발과 서비스·솔루션 개
 
 ## 📂 Featured Projects
 
-### 🤖 Automation Framework
+### 🤖 Automation Strategy & Framework
 
-Web, Mobile, API 환경에서 반복 검증 업무를 줄이기 위한 자동화 프레임워크를 설계하고 운영합니다.
+전체 테스트 시나리오에서 릴리즈 영향도, 반복 실행 빈도, 장애 발생 가능성을 기준으로 자동화 대상을 선정하고 Web·Mobile·API 자동화 구조를 설계·운영합니다.
 
-* Selenium / Appium / Playwright
-* TestNG
-* API Automation
-* Regression Automation
-* Test Result Reporting
+* Selenium·Appium·Playwright 기반 Web·Mobile 자동화와 Postman·Newman 기반 API 검증 구성
+* 공통 Driver, Page Object, 테스트 데이터, 실행 환경을 분리한 재사용 가능한 프레임워크 설계
+* 테스트 결과, 실패 단계, 오류 로그를 확인할 수 있는 실행 리포트와 원인 추적 기준 정의
 
-### 🚀 CI/CD Pipeline
+### 🚀 CI/CD & Release Strategy
 
-자동화 테스트와 배포 프로세스를 연결해 반복 가능한 검증·배포 구조를 구성합니다.
+코드 변경부터 자동화 테스트, 결과 확인, 배포 판단까지 연결되는 CI/CD 실행 흐름을 구성합니다.
 
-* GitHub Actions
-* Jenkins
-* Docker
-* ArgoCD
-* Release Validation
+* Jenkins·GitHub Actions에서 빌드, 자동화 테스트, 결과 리포트가 순차 실행되는 파이프라인 구성
+* Docker 기반으로 개발자와 CI 환경의 테스트 실행 조건을 동일하게 표준화
+* 자동화 테스트 결과와 Coverage 기준을 Release Validation에 연결하고 실패 시 배포 중단 조건 정의
 
 ### 🧠 AI / LLM Automation
 
-AI와 LLM을 활용해 반복 업무, 평가, 검증 프로세스를 자동화하는 방법을 실험하고 구현합니다.
+LLM을 활용해 반복 업무와 평가 프로세스를 자동화하고, 결과를 동일한 기준으로 비교할 수 있는 실행 구조를 설계합니다.
 
-* AI-assisted Engineering
-* LLM Automation
-* Evaluation Automation
-* Harness Engineering
-* Workflow Automation
+* 평가 대상 입력 데이터, 프롬프트, 기대 결과, 판정 기준으로 구성된 평가 데이터셋 정의
+* Harness에서 LLM 호출, 결과 수집, 점수 산출, 실패 케이스 저장이 연결되는 평가 자동화 흐름 구성
+* 정확도 기준을 충족하지 못하거나 판정이 불명확한 결과는 사람이 검토하도록 Human-in-the-loop 조건 정의
 
 ### 📊 Quality Engineering
 
-서비스 리스크를 수치화하고, 배포 전 의사결정을 지원하는 품질 프로세스를 설계합니다.
+테스트 결과와 Coverage를 배포 의사결정에 사용할 수 있도록 품질 기준과 검증 프로세스를 설계·운영합니다.
 
-* Release Quality Gate
-* Coverage Dashboard
-* Risk-based Testing
-* API / Integration / E2E
-* Regression Strategy
+* 요구사항과 변경 영향도를 기준으로 Test Plan, 테스트 우선순위, Regression 범위 정의
+* 테스트 통과율, Coverage, 미해결 결함을 기준으로 Release Quality Gate와 배포 승인 조건 운영
+* API·Integration·E2E 테스트 결과를 대시보드로 제공해 배포 가능 여부와 잔여 리스크 공유
 
 ---
 
