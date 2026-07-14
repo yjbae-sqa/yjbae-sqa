@@ -20,7 +20,7 @@ Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI
 
 [![GitHub](https://img.shields.io/badge/Pensive--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pensive-dev)
 
-Unity 기반 클라이언트·프론트엔드 개발과 서비스·솔루션 개발 경험은 별도의 개발 포트폴리오에서 확인할 수 있습니다.
+Unity 기반 클라이언트(Front-end) 개발과 서비스·솔루션 개발 경험은 별도의 개발 포트폴리오에서 확인할 수 있습니다.
 
 ---
 
