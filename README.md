@@ -4,7 +4,7 @@
 
 ## 👋 안녕하세요!
 
-7년간 소프트웨어 개발과 자동화, Quality Engineering 경험을 바탕으로 서비스 안정성과 개발 생산성을 높여온 Software & Quality Engineer입니다.
+7년간 소프트웨어 개발과 자동화, Quality Engineering 경험을 바탕으로 서비스 안정성과 개발 생산성을 높여온 Software Engineer입니다.
 
 Unity 기반 클라이언트(Front-end) 개발로 커리어를 시작해 서비스·솔루션 개발, 운영·유지보수·고도화를 수행했으며, 이후 테스트 자동화, API 검증, CI/CD, Docker 기반 환경, Release Quality Gate 영역으로 경험을 확장해왔습니다.
 
