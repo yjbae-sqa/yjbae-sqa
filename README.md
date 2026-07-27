@@ -20,7 +20,7 @@ Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI
 
 [![GitHub](https://img.shields.io/badge/Pensive--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pensive-dev)
 
-Unity 기반 클라이언트(Front-end) 개발과 서비스·솔루션 개발 경험은 별도의 개발 포트폴리오에서 확인할 수 있습니다.
+* Unity 기반 클라이언트(Front-end) 개발과 서비스·솔루션 개발 경험은 별도의 개발 포트폴리오에서 확인할 수 있습니다.
 
 ---
 
@@ -34,38 +34,11 @@ Unity 기반 클라이언트(Front-end) 개발과 서비스·솔루션 개발 �
 
 ---
 
-## 🧩 Engineering Areas
+<h2>
+  <a href="https://github.com/yjbae-sqa/yjbae-sqa/issues/5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">🧩 Engineering Areas ↗</a>
+</h2>
 
-### 🖥 Service · Solution Development
-
-* 요구사항과 기존 코드 구조를 분석해 기능 범위, 구현 순서, 수정 영향도 정의
-* Unity·C# 기반 클라이언트 및 프론트엔드 기능 개발, 운영 이슈 수정과 기능 고도화
-* REST API 요청·응답과 비즈니스 로직을 연계한 서비스 기능 구현 및 데이터 정합성 검증
-
-### ⚡ Automation Engineering
-
-* 전체 테스트 시나리오에서 릴리즈 영향도, 반복 빈도, 장애 위험을 기준으로 자동화 대상 선정
-* Selenium·Appium·Playwright 기반 Web·Mobile 자동화와 Postman·Newman 기반 API 검증 구조 설계
-* 테스트 데이터, 실행 조건, 결과 리포트, 실패 원인 추적을 포함한 재사용 가능한 자동화 프레임워크 구축
-
-### 🧠 AI·LLM Automation
-
-* AI 응답 평가 및 반복 업무 자동화를 위한 프로세스 분석과 기술 검토
-* Prompt, 평가 기준, 결과 판정 방식 및 Human Review 조건 검토
-* LLM 기반 응답 평가 PoC의 기술 타당성과 Test Case 자동화 가능 범위 분석
-* 데이터 수집부터 DB 적재까지의 파이프라인 흐름을 분석하고 데이터 처리 구조 및 구축 방향 초안 수립
-
-### 🚀 CI/CD & Service Operations
-
-* Jenkins·GitHub Actions에서 빌드, 자동화 테스트, 결과 리포트가 연계되는 실행 파이프라인 구성
-* Docker 기반 개발·테스트 환경을 표준화하고 ArgoCD 배포 환경과 Release Validation 절차 연동
-* 애플리케이션 로그, Android Logcat, API 요청·응답을 분석해 장애 원인을 추적하고 운영 이슈 수정
-
-### 🛡 Quality Engineering
-
-* 요구사항과 변경 영향도를 기준으로 Test Plan, 테스트 우선순위, Regression 범위 정의
-* 테스트 Coverage와 실행 결과를 수치화해 Release Quality Gate와 배포 승인 기준 운영
-* SonarQube Coverage 데이터를 API로 수집해 품질 대시보드로 시각화하고 배포 전 Coverage 상태 공유
+* Software Engineering, Test Automation, AI·LLM, CI/CD 및 Quality Engineering 역량과 수행 경험 정리
 
 ---
 
