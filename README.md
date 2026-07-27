@@ -4,7 +4,7 @@
 
 ## 👋 안녕하세요!
 
-7년간 소프트웨어 개발과 Quality Engineering 경험을 바탕으로 테스트 자동화, 서비스 품질 개선, CI/CD 및 운영 안정화 업무를 수행해 온 Quality Engineer입니다.
+7년간 소프트웨어 개발 경험을 바탕으로 테스트 자동화 구축, 서비스 품질 개선, CI/CD 및 운영 안정화 업무를 수행해 온 Quality Engineer입니다.
 
 Unity 기반 클라이언트(Front-end) 개발로 커리어를 시작해 서비스·솔루션 개발, 운영·유지보수·고도화를 수행했으며, 이후 테스트 자동화, API 검증, CI/CD, Docker 기반 환경, Release Quality Gate 영역으로 경험을 확장해왔습니다.
 
@@ -12,7 +12,7 @@ Unity 기반 클라이언트(Front-end) 개발로 커리어를 시작해 서비�
 
 Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI/CD, Service Operations 영역을 함께 확장하며, 개발과 품질을 연결하는 엔지니어를 지향합니다.
 
-서비스·솔루션 개발, 자동화 프로세스, CI/CD 파이프라인 구축 및 운영, 프로세스 개선이 필요하다면 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다. ☕
+👉 서비스·솔루션 개발, 자동화 프로세스, CI/CD 파이프라인 구축 및 운영, 프로세스 개선이 필요하다면 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다. ☕
 
 ---
 
@@ -36,7 +36,7 @@ Unity 기반 클라이언트(Front-end) 개발과 서비스·솔루션 개발 �
 
 ## 🧩 Engineering Areas
 
-### 🖥 서비스·솔루션 개발
+### 🖥 Service · Solution Development
 
 * 요구사항과 기존 코드 구조를 분석해 기능 범위, 구현 순서, 수정 영향도 정의
 * Unity·C# 기반 클라이언트 및 프론트엔드 기능 개발, 운영 이슈 수정과 기능 고도화
