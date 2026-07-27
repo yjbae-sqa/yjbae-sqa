@@ -16,11 +16,13 @@ Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI
 
 ---
 
-## 🔗 Software Development Portfolio
+## 💡 Engineering Philosophy
 
-[![GitHub](https://img.shields.io/badge/Pensive--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pensive-dev)
+> 문제를 해결하는 데서 끝나지 않고, 같은 문제가 반복되지 않도록 시스템과 프로세스로 개선하는 것을 중요하게 생각합니다.   
+기능 구현, 자동화, CI/CD, 운영, 품질은 분리된 영역이 아니라 하나의 서비스 흐름 안에서 함께 맞물려 있다고 봅니다.   
+자동화는 목적이 아니라, 더 안정적이고 반복 가능한 서비스를 만들기 위한 수단이라고 생각합니다.  
 
-* Unity 기반 클라이언트(Front-end) 개발과 서비스·솔루션 개발 경험은 별도의 개발 포트폴리오에서 확인할 수 있습니다.
+**안정적인 서비스 운영과 지속 가능한 소프트웨어 전달이 목표라고 생각합니다.**
 
 ---
 
@@ -34,20 +36,23 @@ Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI
 
 ---
 
-<h2>
+## 🔗 Career & Experience
+
+[![GitHub](https://img.shields.io/badge/Pensive--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pensive-dev)
+
+* Unity 기반 클라이언트 및 서비스·솔루션 개발 경력과 수행 이력
+
+<h3>
   <a href="https://github.com/yjbae-sqa/yjbae-sqa/issues/5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">🧩 Engineering Areas ↗</a>
-</h2>
+</h3>
 
 * Software Engineering, Test Automation, AI·LLM, CI/CD 및 Quality Engineering 역량과 수행 경험 정리
 
----
-
-<h2>
+<h3>
   <a href="https://github.com/yjbae-sqa/yjbae-sqa/issues/3" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">📂 Career Summary ↗</a>
-</h2>
+</h3>
 
-* Software Engineering 및 Quality Engineering 경력 정리
-* 서비스·솔루션 개발, 자동화, CI/CD, Release 안정화 경험
+* 서비스·솔루션 개발, 자동화, CI/CD, Release 안정화 경험 및 이력 요약
 
 ---
 
@@ -64,20 +69,6 @@ Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI
 
 ### 📊 Quality Metrics Dashboard
 — 품질 지표를 시각화해 배포 의사결정 시간 약 20분 단축
-
----
-
-## 💡 Engineering Philosophy
-
-> 문제를 해결하는 데서 끝나지 않고, 같은 문제가 반복되지 않도록 시스템과 프로세스로 예방 할 수 있습니다.
-
-기능 구현, 자동화, CI/CD, 운영과 품질은 서로 분리된 영역이 아니라고 생각합니다.
-
-서비스가 안정적으로 운영되기 위해 필요한 문제를 분석하고, 우선순위를 정한 뒤 코드와 자동화, 운영 프로세스로 해결하는 것을 중요하게 생각합니다.
-
-자동화 자체가 목적은 아니라고 봅니다.
-
-**안정적인 서비스 운영과 지속 가능한 소프트웨어 전달이 목표라고 생각합니다.**
 
 ---
 
