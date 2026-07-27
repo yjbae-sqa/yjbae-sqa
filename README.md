@@ -12,7 +12,7 @@ Unity 기반 클라이언트(Front-end) 개발로 커리어를 시작해 서비�
 
 Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI/CD, Service Operations 영역을 함께 확장하며, 개발과 품질을 연결하는 엔지니어를 지향합니다.
 
-👉 서비스·솔루션 개발, 자동화 프로세스, CI/CD 파이프라인 구축 및 운영, 프로세스 개선이 필요하다면 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다.☕
+👉 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다.
 
 ---
 
