@@ -12,7 +12,7 @@ Unity 기반 클라이언트(Front-end) 개발로 커리어를 시작해 서비�
 
 Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI/CD, Service Operations 영역을 함께 확장하며, 개발과 품질을 연결하는 엔지니어를 지향합니다.
 
-👉 서비스·솔루션 개발, 자동화 프로세스, CI/CD 파이프라인 구축 및 운영, 프로세스 개선이 필요하다면 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다. ☕
+👉 서비스·솔루션 개발, 자동화 프로세스, CI/CD 파이프라인 구축 및 운영, 프로세스 개선이 필요하다면 [LinkedIn](https://www.linkedin.com/in/yjbae/)으로 편하게 연락 부탁드립니다.☕
 
 ---
 
@@ -80,37 +80,17 @@ Unity 기반 클라이언트(Front-end) 개발과 서비스·솔루션 개발 �
 
 ## 📂 Featured Projects
 
-### 🤖 Automation Strategy & Framework
+### 🤖 Automation Strategy & Framework 
+— 25개국 대상 핵심 시나리오 자동화, 수동 테스트 30% 절감
 
-전체 테스트 시나리오에서 릴리즈 영향도와 반복 검증 빈도를 기준으로 자동화 대상을 선정하고 Web·Mobile·API 자동화를 개발·운영합니다.
-
-* Selenium·Appium 기반 Web·Mobile 자동화와 Postman·Newman 기반 API 검증 구현
-* 공통 모듈, 테스트 데이터, 실행 조건을 분리한 자동화 실행 구조 구성
-* 테스트 결과, 실패 단계, 오류 로그를 확인할 수 있는 리포트와 실패 원인 추적 기준 정의
-
-### 🚀 CI/CD & Release Strategy
-
-자동화 테스트 결과를 배포 전 검증에 활용할 수 있도록 CI 실행 흐름과 Release 기준을 구성합니다.
-
-* Jenkins에서 Build·Test·Report가 연결되는 자동화 파이프라인 구축 실습
-* Docker 기반으로 로컬과 테스트 환경의 실행 조건 구성
-* 테스트 결과와 Coverage를 Release Quality Gate에 연결해 배포 가능 여부 판단
+### 🚀 CI/CD & Release Strategy 
+— 자동화 테스트와 Coverage를 배포 전 검증 절차에 연계
 
 ### 🧠 AI / LLM Automation
+— LLM 응답 평가 기준 및 데이터 파이프라인 설계
 
-LLM을 활용해 반복 업무와 평가·검증 작업을 동일한 입력 및 판정 기준으로 실행할 수 있도록 자동화합니다.
-
-* 입력 데이터, 프롬프트, 기대 결과, 판정 기준으로 평가 항목 구성
-* LLM 호출, 결과 수집, 점수 산출을 연결한 평가 실행 Workflow 설계
-* 판정이 불명확한 결과를 사람이 검토하도록 Human Review 조건 정의
-
-### 📊 Quality Engineering
-
-테스트 결과와 Coverage를 배포 의사결정에 활용할 수 있도록 검증 기준과 품질 지표를 설계·운영합니다.
-
-* 요구사항과 변경 영향도를 기준으로 테스트 우선순위와 Regression 범위 정의
-* 테스트 통과율과 Coverage를 기반으로 Release Quality Gate 운영
-* 품질 지표 대시보드로 배포 전 상태와 잔여 리스크 공유
+### 📊 Quality Metrics Dashboard
+— 품질 지표를 시각화해 배포 의사결정 시간 약 20분 단축
 
 ---
 
@@ -195,13 +175,3 @@ LLM을 활용해 반복 업무와 평가·검증 작업을 동일한 입력 및 
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-4F46E5?style=for-the-badge&logoColor=white)](https://namu.wiki/w/B2B)
 ![Payment](https://img.shields.io/badge/Payment-059669?style=for-the-badge&logoColor=white)
 [![XR(AR/VR/MR)](https://img.shields.io/badge/XR(AR/VR/MR)-2563EB?style=for-the-badge&logoColor=white)](https://namu.wiki/w/B2B)
-
----
-
-## 🔍 관심 영역
-
-* Service & Solution Development
-* Automation Engineering
-* AI / LLM Automation
-* CI/CD & Platform Engineering
-* Service Operations
